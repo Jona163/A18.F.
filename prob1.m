@@ -4,9 +4,11 @@
 % Titulo: Problema 1 , A.18
 % Descripción: Resolver el primer problema de la actividad 18.
 % Autor:Hernandez Mayen Jonathan Zuar.
+%Version:1
 % Grupo:3101
 % Fecha:28-10-2021
 % Notas:Realizaremos el problema 1 de 10
+%:https://octaveintro.readthedocs.io/en/latest/index.html
 
 %representar la siguiente ecuacion
 %f(x)=1+? x-4
