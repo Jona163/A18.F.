@@ -1,12 +1,14 @@
 % octave script
-% Escuela: Tecnológico de Estudios Superiores de Jilotepec
-% Especialidad: Ingeniería en Sistemas Computacionales
+% Escuela: TecnolÃ³gico de Estudios Superiores de Jilotepec
+% Especialidad: IngenierÃ­a en Sistemas Computacionales
 % Titulo: Problema 2 , A.18
-% Descripción: Resolver el segundo problema de la actividad 18.
+% DescripciÃ³n: Resolver el segundo problema de la actividad 18.
 % Autor:Hernandez Mayen Jonathan Zuar.
+%Version:1
 % Grupo:3101
 % Fecha:28-10-2021
 % Notas:Realizaremos el problema 2 de 10
+%:https://octaveintro.readthedocs.io/en/latest/index.html
 
 %Representar la siguiente funcion .
 %f(X)=1+x^2
